@@ -1,0 +1,19 @@
+Functions:
+- Fn::Base64
+- Fn::Cidr
+- Condition Functions:
+  - Fn::And
+  - Fn::Equals
+  - Fn::If
+  - Fn::Not
+  - Fn::Or
+- Fn::FindInMap
+- Fn::GetAtt
+- Fn::GetAZs
+- Fn::ImportValue
+- Fn::Join
+- Fn::Select
+- Fn::Split
+- Fn::Sub
+- Fn::Transform
+- Ref

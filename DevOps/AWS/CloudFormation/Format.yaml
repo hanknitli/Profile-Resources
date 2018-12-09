@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: 2010-09-09
+
+Description: >
+  Description of the the stack
+
+Parameters:
+  ParamName:
+    AllowedPattern: string
+    AllowedValues: list
+    ConstraintDescription: string
+    Default:
+    Description: string
+    MaxLength: int
+    MaxValue: int
+    MinLength: int
+    MinValue: int
+    NoEcho: boolean
+    Type: Resource Type
+
+Conditions:
+
+
+Mappings:
+
+Metadata:
+
+Resources:
+  resourceName:
+    Type: AWS::*
+    Properties:
+    - properties for different resource
+
+Outputs:
+  OutputName:
+    Description:
+    Value:
+    Export:
+      Name:

@@ -1,0 +1,210 @@
+Cryptography:
+- Symmetric:
+  - AES:
+    - CBC mode
+    - CCM mode
+    - CFB mode
+    - ECB mode
+    - GCM mode
+  - Blowfish
+  - DES/3DES
+  - Twofish
+- Assymetric:
+  - diffie hellman
+  - DSA
+  - ECDSA
+  - Elliptic Curve
+  - RSA
+- Hashes:
+  - MDx
+  - SHAx
+- HMAC-x
+- HSM
+- Other:
+  - Key Encryption Key
+  - Terminal Master Key
+  - Zone Master Key
+
+DevOps:
+- APIs:
+  - OpenAPI Specification (OAS)
+  - RestAPI
+  - SOAP Web Service
+- Authorization and authentication:
+  - OAuth
+  - SAML (Security Assertion Markup Language)
+  - OpenID Connect
+  - Active Directory
+- AWS:
+  - CloudFormation
+  - CloudFront
+  - CloudHSM
+  - CloudTrail
+  - CloudWatch
+  - Cognito
+  - EC2 (Elastic Compute Cloud)
+  - ECR (Elastic Container Registry)
+  - ECS (Elastic Container Service)
+  - EIP (Elastic IP)
+  - ELB (Elastic Load Balancer):
+    - ALB (Application Load Balancer)
+    - NLB (Network Load Balancer)
+  - IAM
+  - IoT Core
+  - Lambda
+  - Route53
+  - S3
+  - Secrets Manager
+  - VPC
+- Blackduck
+- CI-CD:
+  - Bamboo
+  - Jenkins
+- Clustering
+- Coverity
+- DataBases:
+  - Aurora
+  - PostgreSQL
+  - MariaDB
+  - MongoDB
+- Dockers:
+  - Docker
+  - Docker-compose
+- ELK:
+  - Elasticsearch
+  - Logstash
+  - Kibana
+- GCP
+- Kubernetes
+- Maven
+- Project Management and Issue Tracking:
+  - JIRA
+- Prometheus
+- Sandbox
+- SonarQube
+- Version Control:
+  - Repositories:
+    - Bitbucket
+    - GitHub
+    - Nexus
+  - Systems:
+    - Git
+    - SVN
+- Web Servers:
+  - Apache HTTP Server or httpd
+  - NGINX
+  - Apache Tomcat
+  - Node.js
+  - LAMP (Linux, Apache, MySQL, PHP)
+  - XAMPP (Cross-platform, Apache, MariaDB, PHP, Perl)
+
+Languages:
+- Data Formatters:
+  - JSON
+  - yaml
+- Main:
+  - Assembly
+  - Bash
+  - C
+  - Java
+  - javascript
+    - nodeJS
+    - AngularJS
+    - ReactJS
+  - Python
+- Markups:
+  - html
+  - markdown(README.md)
+  - wsdl
+  - xml
+- Supporters:
+  - SQL
+
+Networking:
+- Protocols:
+  - Physical:
+  - Data Link:
+    - I2C
+    - PPP
+    - STP
+    - ARP
+  - Network:
+    - IPv4/v6
+    - EGP
+    - EIGRP
+    - ICMP
+    - IGMP
+    - OSPF
+    - RIP
+  - Transport:
+    - TCP
+    - UDP
+    - SCTP
+  - Application:
+    - BGP
+    - DHCP
+    - DNS
+    - FTP
+    - HTTP
+    - IMAP
+    - LDAP
+    - MQTT
+    - NTP
+    - POP/3
+    - RTP
+    - RTSP
+    - SIP
+    - SMTP
+    - SNMP
+    - SSH
+    - Telnet
+    - TLS/SSL
+    - RDP
+    - SMB
+    - NFS
+    - LDAP
+    - TFTP
+    - NetBIOS
+- Subnetting
+- lwIP
+- Proxy
+- VPN
+- VLAN
+- Firewall
+- SDN
+- Web:
+  - cookies
+  - JWT
+- Devices:
+  - Switches
+  - Routers
+  - Load Balancers
+  - Content Delivery Networks
+
+Operating Systems:
+- Bootloader (Master Boot Record)
+- Processes
+- Threads
+- Scheduling
+- Init
+- Filesystems
+- Flavours:
+  - CoreOS
+  - FreeRTOS
+  - Linux
+  - Windows
+- Memory Addressing
+
+Other:
+- Makefile
+
+Storage:
+- Connector Types:
+  - SATA
+- File Systems:
+- Storage Types:
+  - Flash Drive
+  - Magnetic
+  - NAS (Network Attached Storage)
+  - Optical Drive
+  - Solid State Drive (SSD)

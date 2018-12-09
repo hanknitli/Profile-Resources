@@ -1,0 +1,20 @@
+<definitions>
+	<type>
+
+	</type>
+	<message>
+		<part name="" type=""/>
+	</message>
+
+	<portType>
+		<operation name="">
+			<input message=""/>
+			<output message=""/>
+		</operation>
+	</portType>
+
+	<binding name="" type="portType">
+		<soap:binding style="" transport=""/>
+	</binding>
+
+</definitions>

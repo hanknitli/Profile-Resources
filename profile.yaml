@@ -30,6 +30,9 @@ DevOps:
   - OpenAPI Specification (OAS)
   - RestAPI
   - SOAP Web Service
+- API Tests:
+  - Postman
+  - Newman
 - Authorization and authentication:
   - OAuth
   - SAML (Security Assertion Markup Language)

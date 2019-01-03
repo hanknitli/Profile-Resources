@@ -1,0 +1,17 @@
+Primitive Data Types:
+- Boolean
+  Size: None
+- Byte
+  Size: 8 Bits
+- Char
+  Size: 16 Bits
+- Short
+  Size: 16 Bits
+- Int
+  Size: 32 Bits
+- Long
+  Size: 64 Bits
+- Float
+  Size: 32 Bits
+- Double
+  Size: 64 Bits

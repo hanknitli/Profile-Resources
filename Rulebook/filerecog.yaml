@@ -1,0 +1,8 @@
+# Supported types
+# - YAML
+# - JSON
+
+File:
+- Name: Reference
+  Description: File which will have reference links to other resources
+  Type: YAML
